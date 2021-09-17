@@ -17,3 +17,4 @@
 | Yaxin Xiao|||| Thank you for the nice talk ^ ^ |
 | Mike Yee | mayee | mgobrain | python | merging is hard |
 | Natasha Vernooij  | vernooij  | NatashaVernooij  | R, Qualtrics |  |
+| James Brissenden  | brissend  | brissend  | R, Python, Matlab |  |
