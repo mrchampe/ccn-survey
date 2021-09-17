@@ -16,3 +16,4 @@
 | Han Zhang  | hanzh  | HanZhang-psych  | python, r, javascript | thoughts on using github to collaborate on rmarkdown files? |
 | Yaxin Xiao|||| Thank you for the nice talk ^ ^ |
 | Mike Yee | mayee | mgobrain | python | merging is hard |
+| Natasha Vernooij  | vernooij  | NatashaVernooij  | R, Qualtrics |  |
