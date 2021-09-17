@@ -15,3 +15,4 @@
 | Yiran Li  | yiranlii  | yiranlii  | PsychoPy | How to upload files from command line/what is a good way to upload changed files back onto github? |
 | Han Zhang  | hanzh  | HanZhang-psych  | python, r, javascript | thoughts on using github to collaborate on rmarkdown files? |
 | Yaxin Xiao|||| Thank you for the nice talk ^ ^ |
+| Mike Yee | mayee | mgobrain | python | merging is hard |
